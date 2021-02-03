@@ -1,3 +1,6 @@
+"""
+Face Training 얼굴 학습
+"""
 import cv2
 import numpy as np
 from PIL import Image
